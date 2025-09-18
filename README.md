@@ -1,2 +1,3 @@
 # test_repo2
-hello, this is the second repo with readme 
+hello!<br>this is the second repo with readme <br>
+<b>AUTHOR: MUKTA VARAK </b>
